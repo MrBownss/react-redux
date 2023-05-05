@@ -1,0 +1,18 @@
+* {
+    font-family: 'poppins', sans-serif;
+}
+
+.bg-navbar {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.7)),
+    url('./img/wallpaperbetter.jpg');
+    background-size: cover;
+}
+
+
+.bg-home {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
+    url('./img/379773.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
